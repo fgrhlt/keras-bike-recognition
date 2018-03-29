@@ -33,14 +33,15 @@ The assignment was ment to be similar to a real world machine learning task, so 
 We later trained our network on our images and tweaked our network to achieve a high score.
 
 # Network
-The convolutional neural network consists of 12 layers
+The convolutional neural network consists of 12 layers.
+
+<img src="data/network-visualization.png" alt="network visualization" width="594" height="296">
+
 * 4 Convulutional Layers, 32-32-64-64 outputs, 5x5 kernel, Rectifier Activation.
 * Together with 4 Max Pooling Layer, 2x2 pooling size
 
 * 2 fully connected layers with a dropout layer in between (0.5 dropout).
 * The last connected layer has a softmax activation for classification
-
-<img src="data/network-visualization.png" alt="network visualization" width="594" height="296">
 
 Loss function was categorical crossentropy
 Optimizer was Adam Optimizer
