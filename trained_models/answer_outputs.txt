@@ -1,0 +1,1 @@
+{"#rand_id=": "734", "classifier_optimizer": "adam", "eval_acc": 0.8500000238418579, "classifier_loss_func": "categorical_crossentropy", "#sample": 100, "#classes": 5, "eval_loss": 1.1057684659957885, "classifier_n_layers": 12, "classifier_eval_metric": "accuracy"}

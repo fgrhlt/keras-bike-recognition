@@ -1,0 +1,7 @@
+> Run manually on your console
+0. # conda update anaconda
+1. # conda create -n ipykernel_py2_ml python=2 ipykernel
+2. # source activate ipykernel_py2_ml
+3. # conda install keras tensorflow numpy gensim h5py nltk matplotlib pandas seaborn
+3. # pip install sklearn
+5. # jupyter notebook
