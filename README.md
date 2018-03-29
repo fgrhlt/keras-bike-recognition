@@ -40,7 +40,7 @@ The convolutional neural network consists of 12 layers.
 * 4 Convulutional Layers, 32-32-64-64 outputs, 5x5 kernel, Rectifier Activation.
 * Together with 4 Max Pooling Layer, 2x2 pooling size
 
-* 2 fully connected layers with a dropout layer in between (0.5 dropout).
+* 2 fully connected layers + flatten and dropout layer in between (0.5 dropout).
 * The last connected layer has a softmax activation for classification
 
 Loss function was categorical crossentropy
