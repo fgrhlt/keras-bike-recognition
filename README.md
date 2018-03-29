@@ -5,7 +5,7 @@ This was an assignment in the Machine Learning class at Umeå University, spring
 
 The idea is to take images of your and your friends bicycles, in order to train a neural network so that you later can use it if your bike has been stolen and uploaded to an online marketplace. My network stack got an highest evaluation score of 92% with a small training set of 20 images. 
 
-<img src="data/student_collected_data/train/bike1/IMG_20180319_121750.jpg" alt="bicycle" width="320" height="240">
+<img src="data/student_collected_data/train/bike1/IMG_20180319_121750.jpg" alt="bicycle" width="340" height="240">
 
 # Prerequisites
 * Jupyter Notebook running Python 2.7 (Preferably installed via [Anaconda](https://www.anaconda.com/download/)
