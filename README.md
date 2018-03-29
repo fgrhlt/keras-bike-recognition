@@ -26,3 +26,21 @@ Clone to your computer, and run
 jupyter notebook keras-bike-recognition.ipynb
 ``` 
 This will open up Jupyter Notebook on port 8888. Run the cells from top to bottom in order to classify the bike images.
+
+# Task
+The assignment was ment to be similar to a real world machine learning task, so images were collected by me and my friends outside Umeå University.
+
+We later trained our network on our images and tweaked our network to achieve a high score.
+
+# Network 
+The convolutional neural network consists of 12 layers
+* 4 Convulutional Layers, 32-32-64-64 outputs, 5x5 kernel, Rectifier Activation.
+* Together with 4 Max Pooling Layer, 2x2 pooling size
+
+* 2 fully connected layers with a dropout layer in between (0.5 dropout).
+* The last connected layer has a softmax activation for classification
+
+Loss function was categorical crossentropy
+Optimizer was Adam Optimizer
+
+The network ran for 5 epochs and received a score ranging from 60-92%
