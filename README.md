@@ -40,6 +40,8 @@ The convolutional neural network consists of 12 layers
 * 2 fully connected layers with a dropout layer in between (0.5 dropout).
 * The last connected layer has a softmax activation for classification
 
+<img src="data/student_collected_data/network-visualization.png" alt="network visualization" width="472" height="233">
+
 Loss function was categorical crossentropy
 Optimizer was Adam Optimizer
 
