@@ -5,11 +5,7 @@ This was an assignment in the Machine Learning class at Umeå University, spring
 
 The idea is to take images of your and your friends bicycles, in order to train a neural network so that you later can use it if your bike has been stolen and uploaded to an online marketplace. My network stack got an highest evaluation score of 92% with a small training set of 20 images. 
 
-<img src="data/student_collected_data/train/bike1/IMG_20180319_121750.jpg" alt="bicycle1" width="170" height="120">
-<img src="data/student_collected_data/train/bike2/IMG_20180319_122133.jpg" alt="bicycle2" width="170" height="120">
-<img src="data/student_collected_data/train/bike3/IMG_20180319_122345.jpg" alt="bicycle3" width="170" height="120">
-<img src="data/student_collected_data/train/bike4/IMG_20180319_122519.jpg" alt="bicycle4" width="170" height="120">
-<img src="data/student_collected_data/train/bike5/IMG_20180319_122731.jpg" alt="bicycle5" width="170" height="120">
+<img src="data/student_collected_data/train/bike1/IMG_20180319_121750.jpg" alt="bicycle1" width="170" height="120"><img src="data/student_collected_data/train/bike2/IMG_20180319_122133.jpg" alt="bicycle2" width="170" height="120"><img src="data/student_collected_data/train/bike3/IMG_20180319_122345.jpg" alt="bicycle3" width="170" height="120"><img src="data/student_collected_data/train/bike4/IMG_20180319_122519.jpg" alt="bicycle4" width="170" height="120"><img src="data/student_collected_data/train/bike5/IMG_20180319_122731.jpg" alt="bicycle5" width="170" height="120">
 
 
 # Prerequisites
